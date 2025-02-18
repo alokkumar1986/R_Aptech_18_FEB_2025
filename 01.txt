@@ -1,0 +1,42 @@
+Python :
+a = 5
+b = 6
+c = a+b
+print("Sum of a and b :", c)
+
+R :
+a <- 5
+b <- 6
+c <- a+b
+print(paste("Sum of a and b :", c))
+======================================
+Introduction to R 
+History 
+Features
+Limitation
+Comparison between R and Python
+
+Installation of R
+Installation of RStudio
+Write First R program and run it
+
+
+Questions :
+1)What is R?
+2)Explain history of R.
+3)When the first stable version of R was released?
+4)Who developed R?
+5)Differentiate between R and Python.
+6)Write 5 features of R.
+7)What are the drawbacks of R?
+
+https://posit.co/download/rstudio-desktop/
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,36 @@
+R Programming syllabus
+
+• Importance of R
+• Data Types and Variables in R
+• Operators in R
+• Conditional Statements in R
+• Loops in R
+• R Script
+• Functions in R
+• Identifying Data Structures
+• Assigning Values to Data Structures
+• Data Manipulation
+• Data Visualization using Graphics in R
+• Ggplot2
+• Types of Hypothesis
+• Data Sampling
+• Confidence and Significance Levels
+• Hypothesis Test
+• Parametric Test
+• Non-parametric Test
+• Hypothesis Test About Population Means, Variance, Proportions
+• Types of Regression Analysis Models
+• Cross Validation
+• Non-linear to Linear Models
+• Principal Component Analysis
+• Factor Analysis
+• Logistic Regression
+• Support Vector Machines
+• K-nearest neighbours
+• Naïve Bayes Classifier
+• Decision Tree Classification
+• Random Forest Classification
+• Evaluating Classifier Models
+• Clustering Methods
+• Association Rule
+• Apriori Algorithm
