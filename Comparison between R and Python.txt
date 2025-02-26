@@ -1,0 +1,28 @@
+Comparison between R and Python
+
+1) Python : It is used for developing all type of application like windows application, web applications, machine learning and so on.
+   R : It is used for statical computing or analysis, graphical representation and reporting.
+2) Both are open source and freeware.
+3) Both are platform Independent.
+4) Both are embedded.
+5) Both are interpreted language.
+6) Both are dynamically typed language.
+python 
+
+a = 10
+b = 20
+c = a+b
+
+R 
+
+a <- 10
+b <- 20
+c <- a+b
+
+7) Python was developed by Guido van Rossum(Netherland)
+   R was developed by Ross Ihaka and Gentleman(New Zealand Auckland).
+
+   
+
+
+
