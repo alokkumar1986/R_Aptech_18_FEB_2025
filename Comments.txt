@@ -1,0 +1,16 @@
+Comments :
+
+# : used to add comments in the R programming.
+It is used for both single line as well as multiline
+
+Variables : 
+
+Any user defined name those can hold a value, it is called as a variable.
+
+ram = "Ram"
+
+Rules for defining variable name :
+
+1) A variable name can contain (0-9) digit, (a-zA-Z) character, (underscrore)_ and (dot).
+2) A variable name can not start with a _ (underscore) and (0-9)digit.
+3) If variable starts with a dot (.) and after it we can not use a number.

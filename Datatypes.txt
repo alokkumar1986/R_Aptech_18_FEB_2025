@@ -1,0 +1,5 @@
+Datatypes :
+1) Logical
+2) numeric
+3) character
+4) Complex
