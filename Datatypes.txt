@@ -1,5 +1,84 @@
-Datatypes :
-1) Logical
-2) numeric
-3) character
-4) Complex
+Datatypes :There are 5 types of basic datatypes in R. They are
+
+1) Numeric
+2) Integer
+3) Complex
+4) Character (String)
+5) Logical
+
+* Numeric : Any number with or without decimal point are numeric datatypes.
+
+e.g. 1.23, 123
+class() : This is used to find the datatype of a variable.
+
+a <- 1.23
+print(a)
+print(class(a)) 
+
+* Integer : Any number without decimal point and a L character in it, is considered as Integer datatypes.
+
+e.g. 123L
+class(123L) #integer
+
+* Complex : A number with a real part and an imaginary part is consider as complex number.
+
+e.g. 1+3i , 3i, 2-2i
+class(1+3i) #complex
+
+##Converting a numeric to integer and vice-versa:
+=================================================
+*as.numeric() : It will convert integer to numeric datatype.
+a <- 123L
+b <- as.numeric(a)
+a
+b
+class(a)
+class(b)
+*as.ineger() : It will convert numeric to integer datatype.
+
+a<-123
+b <- as.integer(b)
+a        #123
+b        #123
+class(a) #numeric
+class(b) #integer
+
+* as.complex() : It will convert any number to complex datatype.
+
+a <- 123
+b <- as.complex(a)
+a
+b
+class(a)
+class(b)
+
+=========================================================
+* character : any character/letter/digit or combination of characters/letters/digits enclosed within a single quote or double quote is considered as Character datatype or String datatype.
+
+e.g. 'c', "Aptech"
+class('c') #character
+class("Aptech") #character
+
+Few inbuilt/predefined methods/functions used in Character datatype:
+
+1) cat() : combine two or more characters
+2) nchar() : find the number of characters (length) in a character 
+3) paste() : combine two or more characters
+4) grepl() : find a character is within another character or not
+ 
+Few inbuilt/predefined methods /functions used in numeric datatype
+
+1) max() : Find greatest number between a group of numbers
+2) min() : Find smallest number between a group of numbers
+3) sqrt() : Find square root of a number
+4) abs() : Find absolute value of a number
+5) ceiling : upper value
+6) floor() : lower value
+==============================================================
+* Logical : The datatype only consists of either TRUE or FALSE. It is a Logical datatype
+
+a <- 5
+a>2  
+
+
+
