@@ -4,4 +4,78 @@ Operators :
 2) Assignment
 3) Logical
 4) Comparison
-5) Miscalneous
+5) Miscellaneous
+
+Arithmetic : The operators are used to perform mathematical operations.
+ 
++  Addition 
+-  Substraction
+/  Division
+*  Multiplication
+^  Exponent 
+%% Modulus
+%/% Integer Division
+===================================================================
+Assignment : The operators are used to assign a value to a variable.
+
+<-  : x <- 2
+->  : 2 -> x
+<<- : x <<- 2  (Global Assignment Operator)
+->> : 2 ->> x  (Global Assignment Operator)
+
+Global/Local variable :
+
+*Any variable declared/defined within a function, it is local to that function. We cannot access outside.
+
+*Any variable declared/defined outside of functions, it is global to all functions. It means that it can be accessed anywhere.
+======================================================================= 
+Comparison : The operators are used to compare two values.
+
+==  : x==y
+!=  : x!=y
+>   : x>y
+<   : x<y
+>=  : x>=y
+<=  : x<=y
+=======================================================================
+Logical : 
+
+|      :Elementwise or
+||     : Statementwise or
+&      :Elementwise And
+&&     : Statement wise And
+!      : Not
+
+T | T  : TRUE
+T | F  : TRUE
+F | T  : T
+F | F  : F
+
+T || T  : TRUE
+T || F  : TRUE
+F || T  : T
+F || F  : F
+
+T & T  : TRUE
+T & F  : FALSE
+F & T  : FALSE
+F & F  : FALSE
+
+!T : FALSE
+!F : T
+==================================================
+Miscellaneous :
+
+: = range  x <- 1:10
+%in% : A element is present within a vector or not
+%*% : Matrix Multiplication Operator :
+
+
+
+
+
+
+
+
+
+
